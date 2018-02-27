@@ -1,4 +1,4 @@
-##WL (winston loggly) Logger
+#WL (winston loggly) Logger
 
 Uses a console and Loggly transport with Winston. The Loggly transport is only used when process.env.NODE_ENV = "production".
 

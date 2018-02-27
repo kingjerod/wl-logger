@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "winston": "^2.4.0",
-    "winston-loggly-bulk": "^2.0.2"
+    "winston-loggly-bulk": "^2.0.4-beta"
   },
   "devDependencies": {
     "@types/node": "^9.3.0",
